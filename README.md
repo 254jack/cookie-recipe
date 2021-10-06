@@ -1,10 +1,10 @@
 # cookie-recipe
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {cookie recipe}
+#### {this will assit in better cooking}, {presented by qualified chef}
+#### By **{254jack}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
-## Setup/Installation Requirements
+{hi, have you ever been at your furthest corner part of cooking cookies,well this here is a directive of procedures taken in cookie recipe . }
+##
 * This is a great place
 * to list setup instructions
 * in a simple
